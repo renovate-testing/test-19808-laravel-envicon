@@ -1,17 +1,3 @@
 {
-    "extends": ["config:base"],
-    "packageRules": [
-        {
-            "matchPackagePatterns": [
-                "*"
-            ],
-            "rangeStrategy": "bump"
-        },
-        {
-            "matchDepTypes": [
-                "require-dev"
-            ],
-            "rangeStrategy": "pin"
-        }
-    ]
+
 }
