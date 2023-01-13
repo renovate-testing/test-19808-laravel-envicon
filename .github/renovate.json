@@ -12,6 +12,6 @@
                 "require-dev"
             ],
             "rangeStrategy": "pin"
-        },
-    ],
+        }
+    ]
 }
